@@ -12,3 +12,5 @@ public class subSeq {
         allSubsets(p,up.substring(1)); //Right hand side of recursion tree
     }
 }
+
+//O/P : abc ab ac a bc b c
